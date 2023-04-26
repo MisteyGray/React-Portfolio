@@ -1,0 +1,15 @@
+.aboutFrame {
+    background-color: #fa3933;
+width: 85vw;
+height: 80vh;
+margin:auto;
+
+border: 5px solid rgb(23, 8, 6);
+}
+
+#me {
+    text-align: center;
+    color: #322514;
+    letter-spacing: .5em;
+    word-spacing: 1.5em;
+}

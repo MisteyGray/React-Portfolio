@@ -1,0 +1,16 @@
+.mainframe {
+    background-color: #fbcbc9;
+width: 85vw;
+height: 100vh;
+margin:auto;
+
+border: 5px solid salmon;
+}
+
+#me {
+    color: #322514;
+    letter-spacing: .75em;
+    word-spacing: 1.5em;
+}
+
+

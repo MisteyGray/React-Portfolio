@@ -1,0 +1,14 @@
+.projectsFrame {
+    background-color: #2b1817;
+width: 85vw;
+height: 100vh;
+margin:auto;
+
+border: 5px solid rgb(244, 171, 163);
+}
+
+.me {
+    color: #322514;
+    letter-spacing: .75em;
+    word-spacing: 1.5em;
+}
