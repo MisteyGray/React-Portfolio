@@ -5,6 +5,7 @@ const Landing = () =>{
     return(
         <div className="mainframe">
         <h1 id="me">Mistey Gray</h1>
+        
         </div>
     )
 }
